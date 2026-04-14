@@ -9,7 +9,7 @@ function Header() {
 
         <div className="grid md:grid-cols-2 gap-4 text-sm">
 
-          <p><span className="font-semibold">Name:</span> Denis Razoronov</p>
+          <p><span className="font-semibold">Name:</span> Denis Razoronov changed for Vescel</p>
           <p><span className="font-semibold">Phone:</span> +380 685 860 589</p>
 
           <p className="md:col-span-2">
